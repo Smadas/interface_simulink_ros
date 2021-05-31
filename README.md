@@ -8,3 +8,5 @@ To generate a maze
 Smadas/maze_generator_ros
 To create a control algorithm
 Smadas/create_control_ros
+
+For aditional information how to create interface between ROS and Matlab Simulink see the tutorial documents.
